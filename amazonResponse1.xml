@@ -1,0 +1,326 @@
+<ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+  <OperationRequest>
+    <RequestId>e351e6c3-bb25-4ef1-8476-e32daac6b597</RequestId>
+    <Arguments>
+      <Argument Name="Keywords" Value="j.r.r. tolkien" />
+      <Argument Name="Operation" Value="ItemSearch" />
+      <Argument Name="ResponseGroup" Value="Offers,ItemAttributes" />
+      <Argument Name="SearchIndex" Value="Books" />
+      <Argument Name="Service" Value="AWSECommerceService" />
+      <Argument Name="Timestamp" Value="2022-03-9T10:18:09Z" />
+      <Argument Name="Version" Value="2009-03-31" />
+    </Arguments>
+    <RequestProcessingTime>15.708243846893</RequestProcessingTime>
+  </OperationRequest>
+  <Items>
+    <Request>
+      <IsValid>True</IsValid>
+      <ItemSearchRequest>
+        <Keywords>j.r.r. tolkien</Keywords>
+        <ResponseGroup>Offers</ResponseGroup>
+        <ResponseGroup>ItemAttributes</ResponseGroup>
+        <SearchIndex>books</SearchIndex>
+      </ItemSearchRequest>
+    </Request>
+    <Item>
+      <ASIN>2267025582</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/71cRtwBmtvL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/71cRtwBmtvL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/71cRtwBmtvL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Author>J-R-R Tolkien , Christopher Tolkien, et al.</Author>
+        <NumberOfPages>326</NumberOfPages>
+        <ISBN>2267025582</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>2267025582</EAN>
+        <EANList>
+          <EANListElement>2267025582</EANListElement>
+        </EANList>
+        <ProductGroup>Book</ProductGroup>
+        <Title>Le Hobbit, édition illustrée par J.R.R. Tolkien</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>4500</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 45,00</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>2266214373</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/81giQCk3GAL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/81giQCk3GAL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/81giQCk3GAL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Author>J-R-R Tolkien et Christine Laferrière</Author>
+        <NumberOfPages>352</NumberOfPages>
+        <ISBN>2266214373</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>2266214373</EAN>
+        <EANList>
+          <EANListElement>2266214373</EANListElement>
+        </EANList>
+        <ProductGroup>Book</ProductGroup>
+        <Title>La Légende de Sigurd et Gudrun</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>795</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 7,95</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>0008471290</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/912rmkoz2vL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/912rmkoz2vL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/912rmkoz2vL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Author>Édition en Anglais</Author>
+        <NumberOfPages>1248</NumberOfPages>
+        <ISBN>0008471290</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>0008471290</EAN>
+        <EANList>
+          <EANListElement>0008471290</EANListElement>
+        </EANList>
+        <ProductGroup>Book</ProductGroup>
+        <Title>The Lord of the Rings</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>15035</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 150,35</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>2266118005</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/718vEtlXbbL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/718vEtlXbbL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/718vEtlXbbL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Author>J.R.R. Tolkien</Author>
+        <NumberOfPages>160</NumberOfPages>
+        <ISBN>2266118005</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>2266118005</EAN>
+        <EANList>
+          <EANListElement>2266118005</EANListElement>
+        </EANList>
+        <ProductGroup>Book</ProductGroup>
+        <Title>Contes et Légendes inachevées, tome 2 : Le Second Age</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>490</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 4,90</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>0261103563</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/71qEL84wKML._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/71qEL84wKML._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/71qEL84wKML._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Author>Édition en Anglais</Author>
+        <NumberOfPages>1664</NumberOfPages>
+        <ISBN>0261103563</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>0261103563</EAN>
+        <EANList>
+          <EANListElement>0261103563</EANListElement>
+        </EANList>
+        <ProductGroup>Book</ProductGroup>
+        <Title>The Hobbit &amp; The Lord of the Rings Boxed Set</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>3097</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 30,97</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>0008484449</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/715XceAplsL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/715XceAplsL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/715XceAplsL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Author>Édition en Anglais</Author>
+        <NumberOfPages>112</NumberOfPages>
+        <ISBN>0008484449</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>0008484449</EAN>
+        <EANList>
+          <EANListElement>0008484449</EANListElement>
+        </EANList>
+        <ProductGroup>Book</ProductGroup>
+        <Title>Pictures by J.R.R. Tolkien</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>3060</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 30,60</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+  </Items>
+</ItemSearchResponse>
