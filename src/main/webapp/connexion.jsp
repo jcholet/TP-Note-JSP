@@ -18,10 +18,15 @@
         <div class="fadeIn first">
             <a href="afficheRecherche.jsp">Place du marché</a>
         </div>
+        <%
+            if (session.getAttribute("admin") != null && session.getAttribute("user") != null) {
+                session.invalidate();
+            }
+        %>
         <form action="validationConnexion.jsp">
             <input type="text" id="login" class="fadeIn second" name="login" placeholder="Pseudo">
             <input type="password" id="password" class="fadeIn third" name="password" placeholder="Mot de passe">
-            <input type="submit" class="fadeIn fourth" value="Se connecter">
+            <input type="submit" class="fadeIn fourth" value="Se connecter" id="loginin">
             <br>
         </form>
     </div>

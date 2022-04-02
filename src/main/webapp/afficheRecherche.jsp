@@ -24,7 +24,7 @@
 					<h1 class="site-title">
 						<a href="afficheRecherche.jsp">Place du marché</a>
 					</h1>
-					<a href="<%=response.encodeURL("./connexion.jsp")%>">
+					<a id="connection" href="<%=response.encodeURL("./connexion.jsp")%>">
 						Se connecter
 					</a>
 				</div>

@@ -1,60 +1,61 @@
 <ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
   <OperationRequest>
-    <RequestId>77fa097d-0464-471b-ade3-99ac3cc97640</RequestId>
+    <RequestId>972ca6c2-6d76-49ff-83ba-cfba2fd254d2</RequestId>
     <Arguments>
-      <Argument Name="Keywords" Value="Laylow" />
+      <Argument Name="Keywords" Value="Agatha Christie" />
       <Argument Name="Operation" Value="ItemSearch" />
       <Argument Name="ResponseGroup" Value="Offers,ItemAttributes" />
-      <Argument Name="SearchIndex" Value="Music" />
+      <Argument Name="SearchIndex" Value="Books" />
       <Argument Name="Service" Value="AWSECommerceService" />
-      <Argument Name="Timestamp" Value="2022-03-9T10:28:43Z" />
+      <Argument Name="Timestamp" Value="2022-03-30T08:46:49Z" />
       <Argument Name="Version" Value="2009-03-31" />
     </Arguments>
-    <RequestProcessingTime>1.5144219398499</RequestProcessingTime>
+    <RequestProcessingTime>15.323807001114</RequestProcessingTime>
   </OperationRequest>
   <Items>
     <Request>
       <IsValid>True</IsValid>
       <ItemSearchRequest>
-        <Keywords>Laylow</Keywords>
+        <Keywords>Agatha Christie</Keywords>
         <ResponseGroup>Offers</ResponseGroup>
         <ResponseGroup>ItemAttributes</ResponseGroup>
-        <SearchIndex>music</SearchIndex>
+        <SearchIndex>books</SearchIndex>
       </ItemSearchRequest>
     </Request>
     <Item>
-      <ASIN>B084TF94D9</ASIN>
+      <ASIN>2253039942</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/71xmE3FjyQL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/717vJsOBsCL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/71xmE3FjyQL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/717vJsOBsCL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/71xmE3FjyQL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/717vJsOBsCL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <PublicationDate>2020</PublicationDate>
-        <Artist>Laylow</Artist>
-        <Binding>Audio CD</Binding>
-        <EAN>B084TF94D9</EAN>
+        <Author>Agatha Christie</Author>
+        <NumberOfPages>190</NumberOfPages>
+        <ISBN>2253039942</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>2253039942</EAN>
         <EANList>
-          <EANListElement>B084TF94D9</EANListElement>
+          <EANListElement>2253039942</EANListElement>
         </EANList>
-        <ProductGroup>Music</ProductGroup>
-        <Title>TRINITY</Title>
+        <ProductGroup>Book</ProductGroup>
+        <Title>Rendez-vous avec la mort</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>1239</Amount>
+          <Amount>640</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 12,39</FormattedPrice>
+          <FormattedPrice>EUR 6,40</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -72,38 +73,39 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>B096VP86KY</ASIN>
+      <ASIN>2253040711</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/71zGF-4OIoL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71gwd3S4mFL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/71zGF-4OIoL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71gwd3S4mFL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/71zGF-4OIoL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71gwd3S4mFL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <PublicationDate>2021</PublicationDate>
-        <Artist>Laylow</Artist>
-        <Binding>Audio CD</Binding>
-        <EAN>B096VP86KY</EAN>
+        <Author>Agatha Christie</Author>
+        <NumberOfPages>189</NumberOfPages>
+        <ISBN>2253040711</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>2253040711</EAN>
         <EANList>
-          <EANListElement>B096VP86KY</EANListElement>
+          <EANListElement>2253040711</EANListElement>
         </EANList>
-        <ProductGroup>Music</ProductGroup>
-        <Title>L’étrange histoire de Mr. Anderson | CD</Title>
+        <ProductGroup>Book</ProductGroup>
+        <Title>Trois souris...</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>1199</Amount>
+          <Amount>640</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 11,99</FormattedPrice>
+          <FormattedPrice>EUR 6,40</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -121,38 +123,39 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>B082PQXYLM</ASIN>
+      <ASIN>270244931X</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/61rZgHREqBL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71bwXDt5XvL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/61rZgHREqBL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71bwXDt5XvL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/61rZgHREqBL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71bwXDt5XvL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <PublicationDate>2020</PublicationDate>
-        <Artist>Nepal</Artist>
-        <Binding>Audio CD</Binding>
-        <EAN>B082PQXYLM</EAN>
+        <Author>Agatha Christie</Author>
+        <NumberOfPages>249</NumberOfPages>
+        <ISBN>270244931X</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>270244931X</EAN>
         <EANList>
-          <EANListElement>B082PQXYLM</EANListElement>
+          <EANListElement>270244931X</EANListElement>
         </EANList>
-        <ProductGroup>Music</ProductGroup>
-        <Title>Adios Bahamas</Title>
+        <ProductGroup>Book</ProductGroup>
+        <Title>Témoin à charge (Nouvelle traduction révisée)</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>1999</Amount>
+          <Amount>560</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 19,99</FormattedPrice>
+          <FormattedPrice>EUR 5,60</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -170,38 +173,39 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>B08QLNTFW7</ASIN>
+      <ASIN>2253241784</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/91LrgiquvwL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61o3iN7rxHL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/91LrgiquvwL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61o3iN7rxHL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/91LrgiquvwL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61o3iN7rxHL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <PublicationDate>2021</PublicationDate>
-        <Artist>Alpha Wann</Artist>
-        <Binding>Audio CD</Binding>
-        <EAN>B08QLNTFW7</EAN>
+        <Author>Agatha Christie</Author>
+        <NumberOfPages>288</NumberOfPages>
+        <ISBN>2253241784</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>2253241784</EAN>
         <EANList>
-          <EANListElement>B08QLNTFW7</EANListElement>
+          <EANListElement>2253241784</EANListElement>
         </EANList>
-        <ProductGroup>Music</ProductGroup>
-        <Title>Don Dada Mixtape volume 1</Title>
+        <ProductGroup>Book</ProductGroup>
+        <Title>Ils étaient dix</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>2499</Amount>
+          <Amount>640</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 24,99</FormattedPrice>
+          <FormattedPrice>EUR 6,40</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -219,38 +223,39 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>B096TQ4Q9T</ASIN>
+      <ASIN>2010009274</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/51dV06-+PiL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81H5sa98bcL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/51dV06-+PiL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81H5sa98bcL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/51dV06-+PiL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81H5sa98bcL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <PublicationDate>2021</PublicationDate>
-        <Artist>Damso</Artist>
-        <Binding>Audio CD</Binding>
-        <EAN>B096TQ4Q9T</EAN>
+        <Author>Agatha Christie , Boiry, et al.</Author>
+        <NumberOfPages>416</NumberOfPages>
+        <ISBN>2010009274</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>2010009274</EAN>
         <EANList>
-          <EANListElement>B096TQ4Q9T</EANListElement>
+          <EANListElement>2010009274</EANListElement>
         </EANList>
-        <ProductGroup>Music</ProductGroup>
-        <Title>QALF infinity</Title>
+        <ProductGroup>Book</ProductGroup>
+        <Title>Le crime de l'Orient-Express</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>7013</Amount>
+          <Amount>590</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 70,13</FormattedPrice>
+          <FormattedPrice>EUR 5,90</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -268,38 +273,39 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>B00YYSD74U</ASIN>
+      <ASIN>2253034886</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/71paemadIwL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81FptumS6tL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/71paemadIwL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81FptumS6tL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/71paemadIwL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81FptumS6tL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <PublicationDate>2019</PublicationDate>
-        <Artist>Nekfeu</Artist>
-        <Binding>Audio CD</Binding>
-        <EAN>B00YYSD74U</EAN>
+        <Author>Agatha Christie</Author>
+        <NumberOfPages>256</NumberOfPages>
+        <ISBN>2253034886</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>2253034886</EAN>
         <EANList>
-          <EANListElement>B00YYSD74U</EANListElement>
+          <EANListElement>2253034886</EANListElement>
         </EANList>
-        <ProductGroup>Music</ProductGroup>
-        <Title>Feu</Title>
+        <ProductGroup>Book</ProductGroup>
+        <Title>Loin de vous ce printemps</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>2000</Amount>
+          <Amount>640</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 20,00</FormattedPrice>
+          <FormattedPrice>EUR 6,40</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>

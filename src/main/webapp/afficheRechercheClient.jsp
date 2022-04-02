@@ -59,8 +59,8 @@
                         Musique
                     </a>
                 </li>
-                <li class="page_item page-item-5>
-								<a href="<%=response.encodeURL("./controlePanier.jsp")%>">Panier</a>
+                <li class="page_item page-item-5">
+						<a href="<%=response.encodeURL("./controlePanier.jsp")%>">Panier</a>
                 </li>
             </ul>
         </div>

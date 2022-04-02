@@ -1,105 +1,55 @@
 <ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
   <OperationRequest>
-    <RequestId>e351e6c3-bb25-4ef1-8476-e32daac6b597</RequestId>
+    <RequestId>05c83892-6fda-4e71-863d-5e95628bcafb</RequestId>
     <Arguments>
-      <Argument Name="Keywords" Value="j.r.r. tolkien" />
+      <Argument Name="Keywords" Value="Henning Mankell" />
       <Argument Name="Operation" Value="ItemSearch" />
       <Argument Name="ResponseGroup" Value="Offers,ItemAttributes" />
       <Argument Name="SearchIndex" Value="Books" />
       <Argument Name="Service" Value="AWSECommerceService" />
-      <Argument Name="Timestamp" Value="2022-03-9T10:18:09Z" />
+      <Argument Name="Timestamp" Value="2022-03-23T10:51:15Z" />
       <Argument Name="Version" Value="2009-03-31" />
     </Arguments>
-    <RequestProcessingTime>15.708243846893</RequestProcessingTime>
+    <RequestProcessingTime>15.047407865524</RequestProcessingTime>
   </OperationRequest>
   <Items>
     <Request>
       <IsValid>True</IsValid>
       <ItemSearchRequest>
-        <Keywords>j.r.r. tolkien</Keywords>
+        <Keywords>Henning Mankell</Keywords>
         <ResponseGroup>Offers</ResponseGroup>
         <ResponseGroup>ItemAttributes</ResponseGroup>
         <SearchIndex>books</SearchIndex>
       </ItemSearchRequest>
     </Request>
     <Item>
-      <ASIN>2267025582</ASIN>
+      <ASIN>2757839551</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/71cRtwBmtvL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/716iFxPjQdL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/71cRtwBmtvL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/716iFxPjQdL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/71cRtwBmtvL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/716iFxPjQdL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <Author>J-R-R Tolkien , Christopher Tolkien, et al.</Author>
-        <NumberOfPages>326</NumberOfPages>
-        <ISBN>2267025582</ISBN>
+        <Author>Henning Mankell</Author>
+        <NumberOfPages>384</NumberOfPages>
+        <ISBN>2757839551</ISBN>
         <Binding>Broché</Binding>
-        <EAN>2267025582</EAN>
+        <EAN>2757839551</EAN>
         <EANList>
-          <EANListElement>2267025582</EANListElement>
+          <EANListElement>2757839551</EANListElement>
         </EANList>
         <ProductGroup>Book</ProductGroup>
-        <Title>Le Hobbit, édition illustrée par J.R.R. Tolkien</Title>
-      </ItemAttributes>
-      <OfferSummary>
-        <LowestNewPrice>
-          <Amount>4500</Amount>
-          <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 45,00</FormattedPrice>
-        </LowestNewPrice>
-        <TotalNew>1</TotalNew>
-        <TotalUsed>0</TotalUsed>
-        <TotalCollectible>0</TotalCollectible>
-        <TotalRefurbished>0</TotalRefurbished>
-      </OfferSummary>
-      <Offers>
-        <TotalOffers>1</TotalOffers>
-        <TotalOfferPages>1</TotalOfferPages>
-        <Offer>
-          <OfferAttributes>
-            <Condition>New</Condition>
-          </OfferAttributes>
-        </Offer>
-      </Offers>
-    </Item>
-    <Item>
-      <ASIN>2266214373</ASIN>
-      <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/81giQCk3GAL._SL75_.jpg</URL>
-        <Height Units="pixels">74</Height>
-        <Width Units="pixels">75</Width>
-      </SmallImage>
-      <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/81giQCk3GAL._SL160_.jpg</URL>
-        <Height Units="pixels">157</Height>
-        <Width Units="pixels">160</Width>
-      </MediumImage>
-      <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/81giQCk3GAL._SL500_.jpg</URL>
-        <Height Units="pixels">492</Height>
-        <Width Units="pixels">500</Width>
-      </LargeImage>
-      <ItemAttributes>
-        <Author>J-R-R Tolkien et Christine Laferrière</Author>
-        <NumberOfPages>352</NumberOfPages>
-        <ISBN>2266214373</ISBN>
-        <Binding>Broché</Binding>
-        <EAN>2266214373</EAN>
-        <EANList>
-          <EANListElement>2266214373</EANListElement>
-        </EANList>
-        <ProductGroup>Book</ProductGroup>
-        <Title>La Légende de Sigurd et Gudrun</Title>
+        <Title>Meurtriers sans visage</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
@@ -123,39 +73,39 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>0008471290</ASIN>
+      <ASIN>202053360X</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/912rmkoz2vL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61u4Q0sFdPL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/912rmkoz2vL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61u4Q0sFdPL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/912rmkoz2vL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61u4Q0sFdPL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <Author>Édition en Anglais</Author>
-        <NumberOfPages>1248</NumberOfPages>
-        <ISBN>0008471290</ISBN>
+        <Author>Henning Mankell et Anna Gilson</Author>
+        <NumberOfPages>576</NumberOfPages>
+        <ISBN>202053360X</ISBN>
         <Binding>Broché</Binding>
-        <EAN>0008471290</EAN>
+        <EAN>202053360X</EAN>
         <EANList>
-          <EANListElement>0008471290</EANListElement>
+          <EANListElement>202053360X</EANListElement>
         </EANList>
         <ProductGroup>Book</ProductGroup>
-        <Title>The Lord of the Rings</Title>
+        <Title>Les Morts de la Saint-Jean</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>15035</Amount>
+          <Amount>870</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 150,35</FormattedPrice>
+          <FormattedPrice>EUR 8,70</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -173,39 +123,39 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>2266118005</ASIN>
+      <ASIN>2757833707</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/718vEtlXbbL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61rW8XDU2VL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/718vEtlXbbL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61rW8XDU2VL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/718vEtlXbbL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61rW8XDU2VL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <Author>J.R.R. Tolkien</Author>
-        <NumberOfPages>160</NumberOfPages>
-        <ISBN>2266118005</ISBN>
+        <Author>Henning Mankell</Author>
+        <NumberOfPages>360</NumberOfPages>
+        <ISBN>2757833707</ISBN>
         <Binding>Broché</Binding>
-        <EAN>2266118005</EAN>
+        <EAN>2757833707</EAN>
         <EANList>
-          <EANListElement>2266118005</EANListElement>
+          <EANListElement>2757833707</EANListElement>
         </EANList>
         <ProductGroup>Book</ProductGroup>
-        <Title>Contes et Légendes inachevées, tome 2 : Le Second Age</Title>
+        <Title>L'oeil du léopard</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>490</Amount>
+          <Amount>760</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 4,90</FormattedPrice>
+          <FormattedPrice>EUR 7,60</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -223,39 +173,39 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>0261103563</ASIN>
+      <ASIN>B00JFBC6T8</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/71qEL84wKML._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81zrDa8fVbL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/71qEL84wKML._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81zrDa8fVbL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/71qEL84wKML._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81zrDa8fVbL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <Author>Édition en Anglais</Author>
-        <NumberOfPages>1664</NumberOfPages>
-        <ISBN>0261103563</ISBN>
+        <Author>Henning Mankell</Author>
+        <NumberOfPages>633</NumberOfPages>
+        <ISBN>B00JFBC6T8</ISBN>
         <Binding>Broché</Binding>
-        <EAN>0261103563</EAN>
+        <EAN>B00JFBC6T8</EAN>
         <EANList>
-          <EANListElement>0261103563</EANListElement>
+          <EANListElement>B00JFBC6T8</EANListElement>
         </EANList>
         <ProductGroup>Book</ProductGroup>
-        <Title>The Hobbit &amp; The Lord of the Rings Boxed Set</Title>
+        <Title>La Cinquième Femme (Seuil Policiers)</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>3097</Amount>
+          <Amount>899</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 30,97</FormattedPrice>
+          <FormattedPrice>EUR 8,99</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -273,39 +223,89 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>0008484449</ASIN>
+      <ASIN>2757855042</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/715XceAplsL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71C03z3DdjL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/715XceAplsL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71C03z3DdjL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/715XceAplsL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71C03z3DdjL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <Author>Édition en Anglais</Author>
-        <NumberOfPages>112</NumberOfPages>
-        <ISBN>0008484449</ISBN>
+        <Author>Henning Mankell</Author>
+        <NumberOfPages>168</NumberOfPages>
+        <ISBN>2757855042</ISBN>
         <Binding>Broché</Binding>
-        <EAN>0008484449</EAN>
+        <EAN>2757855042</EAN>
         <EANList>
-          <EANListElement>0008484449</EANListElement>
+          <EANListElement>2757855042</EANListElement>
         </EANList>
         <ProductGroup>Book</ProductGroup>
-        <Title>Pictures by J.R.R. Tolkien</Title>
+        <Title>Une main encombrante</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>3060</Amount>
+          <Amount>640</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 30,60</FormattedPrice>
+          <FormattedPrice>EUR 6,40</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>2020864746</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/61lRoRD+k0L._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/61lRoRD+k0L._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/61lRoRD+k0L._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Author>Henning Mankell</Author>
+        <NumberOfPages>456</NumberOfPages>
+        <ISBN>2020864746</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>2020864746</EAN>
+        <EANList>
+          <EANListElement>2020864746</EANListElement>
+        </EANList>
+        <ProductGroup>Book</ProductGroup>
+        <Title>L'Homme qui souriait. Une enquête du commissaire Wallander</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>830</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 8,30</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>

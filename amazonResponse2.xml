@@ -1,61 +1,59 @@
 <ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
   <OperationRequest>
-    <RequestId>05c83892-6fda-4e71-863d-5e95628bcafb</RequestId>
+    <RequestId>c2a5a600-db80-45b5-a057-2b3ca5e785e4</RequestId>
     <Arguments>
-      <Argument Name="Keywords" Value="Henning Mankell" />
+      <Argument Name="Keywords" Value="Nekfeu" />
       <Argument Name="Operation" Value="ItemSearch" />
       <Argument Name="ResponseGroup" Value="Offers,ItemAttributes" />
-      <Argument Name="SearchIndex" Value="Books" />
+      <Argument Name="SearchIndex" Value="Music" />
       <Argument Name="Service" Value="AWSECommerceService" />
-      <Argument Name="Timestamp" Value="2022-03-23T10:51:15Z" />
+      <Argument Name="Timestamp" Value="2022-03-30T08:46:34Z" />
       <Argument Name="Version" Value="2009-03-31" />
     </Arguments>
-    <RequestProcessingTime>15.047407865524</RequestProcessingTime>
+    <RequestProcessingTime>1.6121389865875</RequestProcessingTime>
   </OperationRequest>
   <Items>
     <Request>
       <IsValid>True</IsValid>
       <ItemSearchRequest>
-        <Keywords>Henning Mankell</Keywords>
+        <Keywords>Nekfeu</Keywords>
         <ResponseGroup>Offers</ResponseGroup>
         <ResponseGroup>ItemAttributes</ResponseGroup>
-        <SearchIndex>books</SearchIndex>
+        <SearchIndex>music</SearchIndex>
       </ItemSearchRequest>
     </Request>
     <Item>
-      <ASIN>2757839551</ASIN>
+      <ASIN>B08P4C7FZ2</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/716iFxPjQdL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/611MtRun9tL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/716iFxPjQdL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/611MtRun9tL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/716iFxPjQdL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/611MtRun9tL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <Author>Henning Mankell</Author>
-        <NumberOfPages>384</NumberOfPages>
-        <ISBN>2757839551</ISBN>
-        <Binding>Broché</Binding>
-        <EAN>2757839551</EAN>
+        <Artist>SponsoriséSponsorisé Vous voyez cette publicité en fonction de la pertinence du produit vis-à-vis à votre recherche.Faites-le nous savoir</Artist>
+        <Binding>Audio CD</Binding>
+        <EAN>B08P4C7FZ2</EAN>
         <EANList>
-          <EANListElement>2757839551</EANListElement>
+          <EANListElement>B08P4C7FZ2</EANListElement>
         </EANList>
-        <ProductGroup>Book</ProductGroup>
-        <Title>Meurtriers sans visage</Title>
+        <ProductGroup>Music</ProductGroup>
+        <Title>haocaitou Poster sur toile représentant la Hip de rappeur, Nekfeu - Décoration murale moderne pour chambre à coucher - 30 x 45 cm</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>795</Amount>
+          <Amount>1100</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 7,95</FormattedPrice>
+          <FormattedPrice>EUR 11,00</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -73,39 +71,38 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>202053360X</ASIN>
+      <ASIN>B00YYSD74U</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/61u4Q0sFdPL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71paemadIwL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/61u4Q0sFdPL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71paemadIwL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/61u4Q0sFdPL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71paemadIwL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <Author>Henning Mankell et Anna Gilson</Author>
-        <NumberOfPages>576</NumberOfPages>
-        <ISBN>202053360X</ISBN>
-        <Binding>Broché</Binding>
-        <EAN>202053360X</EAN>
+        <PublicationDate>2019</PublicationDate>
+        <Artist>Nekfeu</Artist>
+        <Binding>Audio CD</Binding>
+        <EAN>B00YYSD74U</EAN>
         <EANList>
-          <EANListElement>202053360X</EANListElement>
+          <EANListElement>B00YYSD74U</EANListElement>
         </EANList>
-        <ProductGroup>Book</ProductGroup>
-        <Title>Les Morts de la Saint-Jean</Title>
+        <ProductGroup>Music</ProductGroup>
+        <Title>Feu</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>870</Amount>
+          <Amount>2000</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 8,70</FormattedPrice>
+          <FormattedPrice>EUR 20,00</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -123,39 +120,38 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>2757833707</ASIN>
+      <ASIN>B01NCS50RM</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/61rW8XDU2VL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61OlncJ5pTL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/61rW8XDU2VL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61OlncJ5pTL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/61rW8XDU2VL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61OlncJ5pTL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <Author>Henning Mankell</Author>
-        <NumberOfPages>360</NumberOfPages>
-        <ISBN>2757833707</ISBN>
-        <Binding>Broché</Binding>
-        <EAN>2757833707</EAN>
+        <PublicationDate>2017</PublicationDate>
+        <Artist>Nekfeu</Artist>
+        <Binding>Audio CD</Binding>
+        <EAN>B01NCS50RM</EAN>
         <EANList>
-          <EANListElement>2757833707</EANListElement>
+          <EANListElement>B01NCS50RM</EANListElement>
         </EANList>
-        <ProductGroup>Book</ProductGroup>
-        <Title>L'oeil du léopard</Title>
+        <ProductGroup>Music</ProductGroup>
+        <Title>Cyborg</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>760</Amount>
+          <Amount>3799</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 7,60</FormattedPrice>
+          <FormattedPrice>EUR 37,99</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -173,39 +169,38 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>B00JFBC6T8</ASIN>
+      <ASIN>B01FI4OVT8</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/81zrDa8fVbL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81vcD3JIFOL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/81zrDa8fVbL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81vcD3JIFOL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/81zrDa8fVbL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81vcD3JIFOL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <Author>Henning Mankell</Author>
-        <NumberOfPages>633</NumberOfPages>
-        <ISBN>B00JFBC6T8</ISBN>
-        <Binding>Broché</Binding>
-        <EAN>B00JFBC6T8</EAN>
+        <PublicationDate>2016</PublicationDate>
+        <Artist>S-Crew</Artist>
+        <Binding>Audio CD</Binding>
+        <EAN>B01FI4OVT8</EAN>
         <EANList>
-          <EANListElement>B00JFBC6T8</EANListElement>
+          <EANListElement>B01FI4OVT8</EANListElement>
         </EANList>
-        <ProductGroup>Book</ProductGroup>
-        <Title>La Cinquième Femme (Seuil Policiers)</Title>
+        <ProductGroup>Music</ProductGroup>
+        <Title>Destins Liés</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>899</Amount>
+          <Amount>699</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 8,99</FormattedPrice>
+          <FormattedPrice>EUR 6,99</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -223,39 +218,38 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>2757855042</ASIN>
+      <ASIN>B00EQCGZBG</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/71C03z3DdjL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81+0e9izDqL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/71C03z3DdjL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81+0e9izDqL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/71C03z3DdjL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81+0e9izDqL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <Author>Henning Mankell</Author>
-        <NumberOfPages>168</NumberOfPages>
-        <ISBN>2757855042</ISBN>
-        <Binding>Broché</Binding>
-        <EAN>2757855042</EAN>
+        <PublicationDate>2013</PublicationDate>
+        <Artist>S-Crew</Artist>
+        <Binding>Audio CD</Binding>
+        <EAN>B00EQCGZBG</EAN>
         <EANList>
-          <EANListElement>2757855042</EANListElement>
+          <EANListElement>B00EQCGZBG</EANListElement>
         </EANList>
-        <ProductGroup>Book</ProductGroup>
-        <Title>Une main encombrante</Title>
+        <ProductGroup>Music</ProductGroup>
+        <Title>Seine Zoo</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>640</Amount>
+          <Amount>699</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 6,40</FormattedPrice>
+          <FormattedPrice>EUR 6,99</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -273,39 +267,37 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>2020864746</ASIN>
+      <ASIN>B083DBJ9HV</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/61lRoRD+k0L._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71RZklpUdbL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/61lRoRD+k0L._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71RZklpUdbL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/61lRoRD+k0L._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71RZklpUdbL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <Author>Henning Mankell</Author>
-        <NumberOfPages>456</NumberOfPages>
-        <ISBN>2020864746</ISBN>
-        <Binding>Broché</Binding>
-        <EAN>2020864746</EAN>
+        <Artist>SponsoriséSponsorisé Vous voyez cette publicité en fonction de la pertinence du produit vis-à-vis à votre recherche.Faites-le nous savoir</Artist>
+        <Binding>Audio CD</Binding>
+        <EAN>B083DBJ9HV</EAN>
         <EANList>
-          <EANListElement>2020864746</EANListElement>
+          <EANListElement>B083DBJ9HV</EANListElement>
         </EANList>
-        <ProductGroup>Book</ProductGroup>
-        <Title>L'Homme qui souriait. Une enquête du commissaire Wallander</Title>
+        <ProductGroup>Music</ProductGroup>
+        <Title>Coolty 12 Pièces Dessous de Verre en Vinyle Antidérapant, Isolant Disque CD Sous-Verres pour Café Thé Bière Vin Bouteille de Vin, 10.5 x 10.5 x 0.2 cm</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>830</Amount>
+          <Amount>1449</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 8,30</FormattedPrice>
+          <FormattedPrice>EUR 14,49</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>

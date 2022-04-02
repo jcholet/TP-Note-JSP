@@ -1,59 +1,109 @@
 <ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
   <OperationRequest>
-    <RequestId>656e881a-0d30-486c-9a96-5920c7310b60</RequestId>
+    <RequestId>feb2acff-dde4-4198-aea4-887b188133cf</RequestId>
     <Arguments>
-      <Argument Name="Keywords" Value="Damso" />
+      <Argument Name="Keywords" Value="Laylow" />
       <Argument Name="Operation" Value="ItemSearch" />
       <Argument Name="ResponseGroup" Value="Offers,ItemAttributes" />
       <Argument Name="SearchIndex" Value="Music" />
       <Argument Name="Service" Value="AWSECommerceService" />
-      <Argument Name="Timestamp" Value="2022-03-3T04:29:46Z" />
+      <Argument Name="Timestamp" Value="2022-03-30T06:12:01Z" />
       <Argument Name="Version" Value="2009-03-31" />
     </Arguments>
-    <RequestProcessingTime>2.0395882129669</RequestProcessingTime>
+    <RequestProcessingTime>1.8461790084839</RequestProcessingTime>
   </OperationRequest>
   <Items>
     <Request>
       <IsValid>True</IsValid>
       <ItemSearchRequest>
-        <Keywords>Damso</Keywords>
+        <Keywords>Laylow</Keywords>
         <ResponseGroup>Offers</ResponseGroup>
         <ResponseGroup>ItemAttributes</ResponseGroup>
         <SearchIndex>music</SearchIndex>
       </ItemSearchRequest>
     </Request>
     <Item>
-      <ASIN>B09336KHT2</ASIN>
+      <ASIN>B08QLSWJDN</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/61Kq9Mh8s+L._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81XNxzsML6L._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/61Kq9Mh8s+L._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81XNxzsML6L._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/61Kq9Mh8s+L._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/81XNxzsML6L._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <Artist>SponsoriséSponsorisé Vous voyez cette publicité en fonction de la pertinence du produit vis-à-vis à votre recherche.Faites-le nous savoir</Artist>
+        <PublicationDate>2021</PublicationDate>
+        <Artist>Lino</Artist>
         <Binding>Audio CD</Binding>
-        <EAN>B09336KHT2</EAN>
+        <EAN>B08QLSWJDN</EAN>
         <EANList>
-          <EANListElement>B09336KHT2</EANListElement>
+          <EANListElement>B08QLSWJDN</EANListElement>
         </EANList>
         <ProductGroup>Music</ProductGroup>
-        <Title>Jishen Impression sur toile Damso - Décoration murale moderne pour chambre à coucher - 20 x 30 cm</Title>
+        <Title>Requiem</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>2237</Amount>
+          <Amount>1700</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 22,37</FormattedPrice>
+          <FormattedPrice>EUR 17,00</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>B086BK4ZNJ</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/51Oa1XqhRbL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/51Oa1XqhRbL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/51Oa1XqhRbL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <PublicationDate>2022</PublicationDate>
+        <Artist>Damso</Artist>
+        <Binding>Audio CD</Binding>
+        <EAN>B086BK4ZNJ</EAN>
+        <EANList>
+          <EANListElement>B086BK4ZNJ</EANListElement>
+        </EANList>
+        <ProductGroup>Music</ProductGroup>
+        <Title>Batterie Faible</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>1500</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 15,00</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -120,38 +170,38 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>B07QGGFKYN</ASIN>
+      <ASIN>B096TQ4Q9T</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/71+2Hh3gNGS._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/51dV06-+PiL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/71+2Hh3gNGS._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/51dV06-+PiL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/71+2Hh3gNGS._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/51dV06-+PiL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <PublicationDate>2019</PublicationDate>
+        <PublicationDate>2021</PublicationDate>
         <Artist>Damso</Artist>
         <Binding>Audio CD</Binding>
-        <EAN>B07QGGFKYN</EAN>
+        <EAN>B096TQ4Q9T</EAN>
         <EANList>
-          <EANListElement>B07QGGFKYN</EANListElement>
+          <EANListElement>B096TQ4Q9T</EANListElement>
         </EANList>
         <ProductGroup>Music</ProductGroup>
-        <Title>Originaux: Ipséité/Lithopédion</Title>
+        <Title>QALF infinity</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>1198</Amount>
+          <Amount>7145</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 11,98</FormattedPrice>
+          <FormattedPrice>EUR 71,45</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -169,38 +219,38 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>B07D51TYHD</ASIN>
+      <ASIN>B07CLW1R66</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/81tsfGaT9jL._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71GBsl4AoqL._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/81tsfGaT9jL._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71GBsl4AoqL._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/81tsfGaT9jL._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/71GBsl4AoqL._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
         <PublicationDate>2018</PublicationDate>
-        <Artist>Damso</Artist>
+        <Artist>Xxxtentacion</Artist>
         <Binding>Audio CD</Binding>
-        <EAN>B07D51TYHD</EAN>
+        <EAN>B07CLW1R66</EAN>
         <EANList>
-          <EANListElement>B07D51TYHD</EANListElement>
+          <EANListElement>B07CLW1R66</EANListElement>
         </EANList>
         <ProductGroup>Music</ProductGroup>
-        <Title>Lithopédion</Title>
+        <Title>?</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>699</Amount>
+          <Amount>2000</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 6,99</FormattedPrice>
+          <FormattedPrice>EUR 20,00</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>
@@ -218,87 +268,38 @@
       </Offers>
     </Item>
     <Item>
-      <ASIN>B07B63ZGZB</ASIN>
+      <ASIN>B0000088DC</ASIN>
       <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/71rKUKQGyTS._SL75_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61quAjwYMtS._SL75_.jpg</URL>
         <Height Units="pixels">74</Height>
         <Width Units="pixels">75</Width>
       </SmallImage>
       <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/71rKUKQGyTS._SL160_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61quAjwYMtS._SL160_.jpg</URL>
         <Height Units="pixels">157</Height>
         <Width Units="pixels">160</Width>
       </MediumImage>
       <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/71rKUKQGyTS._SL500_.jpg</URL>
+        <URL>https://m.media-amazon.com/images/I/61quAjwYMtS._SL500_.jpg</URL>
         <Height Units="pixels">492</Height>
         <Width Units="pixels">500</Width>
       </LargeImage>
       <ItemAttributes>
-        <PublicationDate>2018</PublicationDate>
-        <Artist>Vald</Artist>
+        <PublicationDate>2013</PublicationDate>
+        <Artist>Nirvana</Artist>
         <Binding>Audio CD</Binding>
-        <EAN>B07B63ZGZB</EAN>
+        <EAN>B0000088DC</EAN>
         <EANList>
-          <EANListElement>B07B63ZGZB</EANListElement>
+          <EANListElement>B0000088DC</EANListElement>
         </EANList>
         <ProductGroup>Music</ProductGroup>
-        <Title>Originaux: Agartha/Xeu</Title>
+        <Title>Nevermind</Title>
       </ItemAttributes>
       <OfferSummary>
         <LowestNewPrice>
-          <Amount>1299</Amount>
+          <Amount>2399</Amount>
           <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 12,99</FormattedPrice>
-        </LowestNewPrice>
-        <TotalNew>1</TotalNew>
-        <TotalUsed>0</TotalUsed>
-        <TotalCollectible>0</TotalCollectible>
-        <TotalRefurbished>0</TotalRefurbished>
-      </OfferSummary>
-      <Offers>
-        <TotalOffers>1</TotalOffers>
-        <TotalOfferPages>1</TotalOfferPages>
-        <Offer>
-          <OfferAttributes>
-            <Condition>New</Condition>
-          </OfferAttributes>
-        </Offer>
-      </Offers>
-    </Item>
-    <Item>
-      <ASIN>B082PQXYLM</ASIN>
-      <SmallImage>
-        <URL>https://m.media-amazon.com/images/I/61rZgHREqBL._SL75_.jpg</URL>
-        <Height Units="pixels">74</Height>
-        <Width Units="pixels">75</Width>
-      </SmallImage>
-      <MediumImage>
-        <URL>https://m.media-amazon.com/images/I/61rZgHREqBL._SL160_.jpg</URL>
-        <Height Units="pixels">157</Height>
-        <Width Units="pixels">160</Width>
-      </MediumImage>
-      <LargeImage>
-        <URL>https://m.media-amazon.com/images/I/61rZgHREqBL._SL500_.jpg</URL>
-        <Height Units="pixels">492</Height>
-        <Width Units="pixels">500</Width>
-      </LargeImage>
-      <ItemAttributes>
-        <PublicationDate>2020</PublicationDate>
-        <Artist>Nepal</Artist>
-        <Binding>Audio CD</Binding>
-        <EAN>B082PQXYLM</EAN>
-        <EANList>
-          <EANListElement>B082PQXYLM</EANListElement>
-        </EANList>
-        <ProductGroup>Music</ProductGroup>
-        <Title>Adios Bahamas</Title>
-      </ItemAttributes>
-      <OfferSummary>
-        <LowestNewPrice>
-          <Amount>1999</Amount>
-          <CurrencyCode>EUR</CurrencyCode>
-          <FormattedPrice>EUR 19,99</FormattedPrice>
+          <FormattedPrice>EUR 23,99</FormattedPrice>
         </LowestNewPrice>
         <TotalNew>1</TotalNew>
         <TotalUsed>0</TotalUsed>

@@ -4,7 +4,6 @@ com/zeloon/deezer/domain/Autocomplete.class
 com/zeloon/deezer/domain/internal/search/SearchAutocomplete.class
 com/zeloon/deezer/domain/ArtistRadio.class
 amazon/apaIO/io/ResourceConnection.class
-commerce/catalogue/domaine/modele/Account.class
 amazon/apaIO/configuration/Country.class
 com/zeloon/deezer/domain/Object.class
 com/zeloon/deezer/domain/Album.class
